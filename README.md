@@ -13,7 +13,7 @@ Syftet med uppgiften är att bekanta sig med en två-kolumns layout med semansti
 
 4. Lägg in några bilder på sidan. Både som innehåll med <img>-elementet och som bakgrundsbild ([se denna länk](https://www.w3schools.com/cssref/sel_hover.asp](https://cssreference.io/backgrounds/#background-image)))
 
-5. Styla navigationselement (länkarna) i <nav>. Använd dig gärna av pseudoklassen :hover för att ändra styling när musen befinner sig över elementet ([se denna länk](https://www.w3schools.com/cssref/sel_hover.asp))
+5. Styla navigationselement (länkarna) i nav. Använd dig gärna av pseudoklassen :hover för att ändra styling när musen befinner sig över elementet ([se denna länk](https://www.w3schools.com/cssref/sel_hover.asp))
 
   
   

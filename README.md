@@ -16,4 +16,5 @@ Syftet med uppgiften är att bekanta sig med en två-kolumns layout med semansti
 5. Styla navigationselement (länkarna) i <nav>. Använd dig gärna av pseudoklassen :hover för att ändra styling när musen befinner sig över elementet ([se denna länk](https://www.w3schools.com/cssref/sel_hover.asp))
 
   
+  
 ***Det är tillåtet att ändra i layouten!***

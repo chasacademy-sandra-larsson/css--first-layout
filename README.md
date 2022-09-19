@@ -11,7 +11,7 @@ Syftet med uppgiften är att bekanta sig med en två-kolumns layout med semansti
 
 3. Styla texten för läsbarhet och låt innehållet "andas" med white-space. Använd dig av margin- och padding samt olika CSS-regler för typografi som font-size, font-weight, line-height, letter-spacing.
 
-4. Lägg in några bilder på sidan. Både som innehåll med <img>-elementet och som bakgrundsbild ![se denna länk] (https://cssreference.io/backgrounds/#background-image) 
+4. Lägg in några bilder på sidan. Både som innehåll med <img>-elementet och som bakgrundsbild ([se denna länk] (https://cssreference.io/backgrounds/#background-image)) 
 
 5. Styla navigationselement (länkarna) i <nav>. Använd dig gärna av pseudoklassen :hover för att ändra styling när musen befinner sig över elementet ([se denna länk](https://www.w3schools.com/cssref/sel_hover.asp))
 
